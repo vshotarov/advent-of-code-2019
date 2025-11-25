@@ -2,5 +2,5 @@
 *.pyc
 *_*
 !25_instructions
-!*_data
 !*.png
+data
